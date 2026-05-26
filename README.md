@@ -52,11 +52,6 @@ pip install flask PyPDF2
 Run the Project
 python main.py
 
-Open browser:
-
-http://127.0.0.1:5000
-Scam URL Detection
-
 Example malicious URL:
 
 http://secure-paypal-login-free.xyz
@@ -82,13 +77,7 @@ Fake login indicators
 Dangerous domains
 Scam-related patterns
 Fraudulent email phrases
-Screenshots
 
-Add screenshots here after uploading project images.
-
-Example:
-
-![Home Page](screenshots/home.png)!
 Future Improvements
 Machine Learning based detection
 VirusTotal API integration
